@@ -7,14 +7,20 @@ The Arduino can be powered via any 5V connection from the motherboard that retai
 
 # Usage
 Press 3 times to "tap the power button once"
+
 Press 3 times and hold to "hold the power button"
+
 Press 5 times to "tap the reset button once"
 
 # Connections
 PC Case PowerSW jumper to pins D2 and GND
+
 MB PowerSW+ pin to D3
+
 MB ResetSW+ pin to D4
+
 A ground connection to GND
+
 A 5V power source to 5V
 
 
