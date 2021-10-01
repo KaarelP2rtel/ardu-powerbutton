@@ -23,4 +23,9 @@ A ground connection to GND
 
 A 5V power source to 5V
 
+MB HDD to D7 ( Either HDD+ or HDD- depending on which pin is used to drive the LED)
+
+PC Case LED+ to D8 via a 160ohm resistor
+PC Case LED- to GND
+
 
